@@ -1,6 +1,6 @@
 # Little Lemon App
 Since databases are limited to local envoriment in this course, please enter your own database details, create users and tokens manually or through apis as decribed in the coursera's previous modules and then use the respective API where token authorization is required.
-
+...
 Following are the API URL
 http://127.0.0.1:8000/restaurant/menu/       
 http://127.0.0.1:8000/restaurant/menu/2/    
